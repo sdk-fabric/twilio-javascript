@@ -1,0 +1,5 @@
+{
+  "name": "@sdkfabric/twilio",
+  "description": "Twilio JavaScript SDK managed by SDK Fabric",
+  "website": "https://sdk-fabric.org"
+}
